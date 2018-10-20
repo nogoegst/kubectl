@@ -737,7 +737,7 @@
   revision = "ebbb0871782497cd82dce8de2f1bd0517ff047df"
 
 [[projects]]
-  digest = "1:4cdafa991c56d6744f19ab3b68d5fecd1cf5580a8b969179440f965d6651ba9b"
+  digest = "1:ee3dd5860df2dbb82cf9a6ef034ca683bcf403ca8d180e879d02313b4fe3c28a"
   name = "k8s.io/client-go"
   packages = [
     "discovery",
@@ -823,8 +823,7 @@
     "util/retry",
   ]
   pruneopts = "NUT"
-  revision = "1638f8970cefaa404ff3a62950f88b08292b2696"
-  version = "v9.0.0"
+  revision = "5e167e7c1e8a97ce058cc12814418d0fd5b6fd6e"
 
 [[projects]]
   digest = "1:9af14312e6ca4a08fa836d9de695b48f6048a6e763c6ac70790c5279cb8a3829"
